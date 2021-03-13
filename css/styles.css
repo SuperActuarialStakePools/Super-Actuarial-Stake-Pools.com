@@ -12,6 +12,7 @@ div {
 
 table {
     margin: 0 auto 0 auto;
+    border-spacing: 40px;
 }
 
 /* ul {
